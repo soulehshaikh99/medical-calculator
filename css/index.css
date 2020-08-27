@@ -1,0 +1,169 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+body {
+  font-family: "Roboto";
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  /* margin: 32px 32px; */
+}
+
+.table-wrapper {
+  border-color: #202020;
+  border-width: 1px;
+  border-style: solid;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+table td div {
+  display: inline-block;
+}
+
+tfoot tr td:first-child {
+  text-align: center;
+}
+
+td.price::before,
+td.totalPrice::before,
+td#grand-total::before,
+td#discounted-amount::before {
+  content: "₹";
+}
+
+table th {
+  font-weight: 700;
+  font-style: normal;
+}
+
+tfoot tr:last-child {
+  border-bottom: 1px solid white;
+}
+
+table tr {
+  border-bottom: 1px solid #202020;
+}
+
+table td,
+table th {
+  padding: 12px 8px;
+}
+
+table th {
+  text-align: left;
+  background-color: white;
+  color: #202020;
+}
+
+.bill-controls {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.table-name {
+  text-align: center;
+}
+
+button {
+  font-size: 16px;
+  padding: 16px 24px;
+  border: 0;
+  outline: none;
+  box-shadow: none;
+  color: white;
+  border-radius: 5px;
+  transition-property: background-color;
+  transition-timing-function: ease-in-out;
+  transition-duration: 100ms;
+  margin-top: 16px;
+  margin-left: 8px;
+  letter-spacing: 0.5px;
+}
+
+#delete-medicine-record-btn {
+  background-color: #d32f2f;
+}
+
+#add-medicine-record-btn {
+  background-color: #00c853;
+}
+
+#calculate-bill-btn {
+  background-color: #384ad3;
+}
+
+#save-changes-btn {
+  background-color: #00c853;
+}
+
+#delete-cache-btn {
+  background-color: #d32f2f;
+}
+
+#save-file-btn {
+  background-color: #384ad3;
+}
+
+.checkbox {
+  width: 16px;
+  height: 16px;
+  outline: none;
+}
+
+.checkbox:hover {
+  cursor: pointer;
+}
+
+@media (hover: hover) {
+  button:hover,
+  button:focus {
+    cursor: pointer;
+  }
+
+  #delete-medicine-record-btn:hover,
+  #delete-medicine-record-btn:focus {
+    background-color: #121212;
+  }
+
+  #add-medicine-record-btn:hover,
+  #add-medicine-record-btn:focus {
+    background-color: #121212;
+  }
+
+  #calculate-bill-btn:hover,
+  #calculate-bill-btn:focus {
+    background-color: #121212;
+  }
+
+  #save-changes-btn:hover,
+  #save-changes-btn:focus {
+    background-color: #00c853;
+  }
+
+  #delete-cache-btn:hover,
+  #delete-cache-btn:focus {
+    background-color: #d32f2f;
+  }
+
+  #save-file-btn:hover,
+  #save-file-btn:focus {
+    background-color: #384ad3;
+  }
+}
