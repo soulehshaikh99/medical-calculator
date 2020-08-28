@@ -1,5 +1,6 @@
 // Imports
-import data from "./data.js";
+import data from './data.js';
+import constants from './constants.js'
 
 // UI Controls
 const tableRecordsUI = document.querySelector(
@@ -119,15 +120,15 @@ function updateTableUI(quantityUI, priceUI, totalPriceUI) {
 }
 
 function getDataFromServer() {
-  let data = "";
-  $.ajax({
-    url: "/data/med-table-records.json",
-    success: function (response) {
-      data = response;
-    },
-    async: false,
-    dataType: "text",
-  });
+  let data = '';
+  let xhr = new XMLHttpRequest();
+  xhr.open('GET', constants.DATA_URL, false);
+  xhr.onload = function() {
+    if(this.status === 200) {
+      data = this.responseText;
+    }
+  }
+  xhr.send();
   return data;
 }
 
