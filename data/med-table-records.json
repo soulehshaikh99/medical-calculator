@@ -1,9 +1,21 @@
 [
   {
-    "name": "Aciloc RD",
-    "quantity": 2,
-    "price": 42.7,
-    "totalPrice": 85.4
+    "name": "Gluconorm G2 Forte",
+    "quantity": 6,
+    "price": 187.95,
+    "totalPrice": 1127.7
+  },
+  {
+    "name": "Vobit 0.3",
+    "quantity": 4,
+    "price": 215.3,
+    "totalPrice": 861.2
+  },
+  {
+    "name": "Roseday 5",
+    "quantity": 3,
+    "price": 62.5,
+    "totalPrice": 187.5
   },
   {
     "name": "Galvus 50mg",
@@ -12,15 +24,39 @@
     "totalPrice": 598
   },
   {
-    "name": "Shelcal HD",
+    "name": "Aten 25",
     "quantity": 2,
-    "price": 105,
-    "totalPrice": 210
+    "price": 27.39,
+    "totalPrice": 54.78
   },
   {
-    "name": "Crocin 500",
+    "name": "Cital-H",
+    "quantity": 1,
+    "price": 166.35,
+    "totalPrice": 166.35
+  },
+  {
+    "name": "Dytor 10",
     "quantity": 2,
-    "price": 20.38,
-    "totalPrice": 40.76
+    "price": 70.18,
+    "totalPrice": 140.36
+  },
+  {
+    "name": "Portrate MB6 450ml",
+    "quantity": 1,
+    "price": 328,
+    "totalPrice": 328
+  },
+  {
+    "name": "Human Mixtard",
+    "quantity": 2,
+    "price": 154.66,
+    "totalPrice": 309.32
+  },
+  {
+    "name": "Naturolax A",
+    "quantity": 1,
+    "price": 270,
+    "totalPrice": 270
   }
 ]
