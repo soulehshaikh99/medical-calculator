@@ -19,9 +19,9 @@
   },
   {
     "name": "Galvus 50mg",
-    "quantity": 2,
+    "quantity": 1,
     "price": 299,
-    "totalPrice": 598
+    "totalPrice": 299
   },
   {
     "name": "Aten 25",
@@ -42,16 +42,10 @@
     "totalPrice": 140.36
   },
   {
-    "name": "Portrate MB6 450ml",
-    "quantity": 1,
-    "price": 328,
-    "totalPrice": 328
-  },
-  {
     "name": "Human Mixtard",
-    "quantity": 2,
-    "price": 154.66,
-    "totalPrice": 309.32
+    "quantity": 4,
+    "price": 157.57,
+    "totalPrice": 630.28
   },
   {
     "name": "Naturolax A",
@@ -86,8 +80,8 @@
   {
     "name": "Telma 40",
     "quantity": 1,
-    "price": 216.69,
-    "totalPrice": 216.69
+    "price": 220.75,
+    "totalPrice": 220.75
   },
   {
     "name": "Korandil 10",
@@ -115,9 +109,9 @@
   },
   {
     "name": "Aciloc RD",
-    "quantity": 3,
+    "quantity": 5,
     "price": 42.7,
-    "totalPrice": 128.1
+    "totalPrice": 213.5
   },
   {
     "name": "Avil 50mg",
@@ -127,14 +121,44 @@
   },
   {
     "name": "Rantac 150",
-    "quantity": 1,
+    "quantity": 2,
     "price": 24.64,
-    "totalPrice": 24.64
+    "totalPrice": 49.28
   },
   {
-    "name": "Bascogast",
+    "name": "Buscogast",
     "quantity": 3,
     "price": 33.15,
     "totalPrice": 99.45
+  },
+  {
+    "name": "Neurobion Forte",
+    "quantity": 5,
+    "price": 10.53,
+    "totalPrice": 52.65
+  },
+  {
+    "name": "Urimax F",
+    "quantity": 2,
+    "price": 407.16,
+    "totalPrice": 814.32
+  },
+  {
+    "name": "Calciquick D3 60k",
+    "quantity": 1,
+    "price": 131.89,
+    "totalPrice": 131.89
+  },
+  {
+    "name": "Shelcal HD 12",
+    "quantity": 1,
+    "price": 128.55,
+    "totalPrice": 128.55
+  },
+  {
+    "name": "Crocin Advance",
+    "quantity": 2,
+    "price": 20.38,
+    "totalPrice": 40.76
   }
 ]
