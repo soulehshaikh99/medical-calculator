@@ -1,15 +1,15 @@
 [
   {
-    "name": "Gluconorm G2 Forte",
-    "quantity": 6,
-    "price": 187.95,
-    "totalPrice": 1127.7
+    "name": "Gemer 2",
+    "quantity": 9,
+    "price": 121,
+    "totalPrice": 1089
   },
   {
-    "name": "Vobit 0.3",
+    "name": "Volix 0.3",
     "quantity": 4,
-    "price": 215.3,
-    "totalPrice": 861.2
+    "price": 187.5,
+    "totalPrice": 750
   },
   {
     "name": "Roseday 5",
@@ -18,46 +18,34 @@
     "totalPrice": 187.5
   },
   {
-    "name": "Galvus 50mg",
-    "quantity": 1,
-    "price": 299,
-    "totalPrice": 299
+    "name": "Gliptagreat 50",
+    "quantity": 3,
+    "price": 49.9,
+    "totalPrice": 149.7
   },
   {
-    "name": "Aten 25",
+    "name": "Aten 50",
     "quantity": 2,
-    "price": 27.39,
-    "totalPrice": 54.78
+    "price": 27.9,
+    "totalPrice": 55.8
   },
   {
-    "name": "Cital-H",
-    "quantity": 1,
-    "price": 166.35,
-    "totalPrice": 166.35
+    "name": "Dapamac 10",
+    "quantity": 3,
+    "price": 142,
+    "totalPrice": 426
   },
   {
-    "name": "Dytor 10",
-    "quantity": 2,
-    "price": 70.18,
-    "totalPrice": 140.36
+    "name": "Piohope 7.5",
+    "quantity": 3,
+    "price": 50,
+    "totalPrice": 150
   },
   {
-    "name": "Human Mixtard",
-    "quantity": 4,
-    "price": 157.57,
-    "totalPrice": 630.28
-  },
-  {
-    "name": "Naturolax A",
-    "quantity": 1,
-    "price": 270,
-    "totalPrice": 270
-  },
-  {
-    "name": "Nexpro RD 40",
-    "quantity": 2,
-    "price": 148.55,
-    "totalPrice": 297.1
+    "name": "Rabemac DSR",
+    "quantity": 3,
+    "price": 119.9,
+    "totalPrice": 359.7
   },
   {
     "name": "Nise",
@@ -68,14 +56,14 @@
   {
     "name": "Ivabrad 5",
     "quantity": 2,
-    "price": 307.9,
-    "totalPrice": 615.8
+    "price": 338.55,
+    "totalPrice": 677.1
   },
   {
     "name": "Planep",
     "quantity": 2,
-    "price": 315,
-    "totalPrice": 630
+    "price": 346.5,
+    "totalPrice": 693
   },
   {
     "name": "Telma 40",
@@ -98,8 +86,8 @@
   {
     "name": "Alprax 0.25",
     "quantity": 2,
-    "price": 24.05,
-    "totalPrice": 48.1
+    "price": 26.4,
+    "totalPrice": 52.8
   },
   {
     "name": "Zolfresh 10mg",
@@ -108,16 +96,10 @@
     "totalPrice": 141.33
   },
   {
-    "name": "Aciloc RD",
-    "quantity": 5,
-    "price": 42.7,
-    "totalPrice": 213.5
-  },
-  {
     "name": "Avil 50mg",
     "quantity": 2,
-    "price": 10.01,
-    "totalPrice": 20.02
+    "price": 10.02,
+    "totalPrice": 20.04
   },
   {
     "name": "Rantac 150",
@@ -133,21 +115,15 @@
   },
   {
     "name": "Neurobion Forte",
-    "quantity": 5,
+    "quantity": 3,
     "price": 10.53,
-    "totalPrice": 52.65
+    "totalPrice": 31.59
   },
   {
     "name": "Urimax F",
-    "quantity": 2,
-    "price": 407.16,
-    "totalPrice": 814.32
-  },
-  {
-    "name": "Calciquick D3 60k",
     "quantity": 1,
-    "price": 131.89,
-    "totalPrice": 131.89
+    "price": 407.16,
+    "totalPrice": 407.16
   },
   {
     "name": "Shelcal HD 12",
